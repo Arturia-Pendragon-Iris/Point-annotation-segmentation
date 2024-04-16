@@ -17,3 +17,11 @@ A part of the accessible data (n=20) and the full-annotation of infections can b
 
 ### Performance evaluation
 ![image](https://github.com/Arturia-Pendragon-Iris/Point-annotation-segmentation/blob/main/img/Figure_6.png)
+
+## Ackknowledge
+* [CycleGAN](https://github.com/charlesyou999648/GAN-CIRCLE) The development of CT inter-slice super-resolution is based on this repo.
+* [Blood vessel segmentation](https://github.com/Arturia-Pendragon-Iris/HiPaS_AV_Segmentation)
+* [Lung and airway segmentation](https://github.com/LongxiZhou/DLPE-method)
+* [CT denoising](https://github.com/SSinyu/RED-CNN)
+
+
