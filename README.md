@@ -24,4 +24,19 @@ A part of the accessible data (n=20) and the full-annotation of infections can b
 * [Lung and airway segmentation](https://github.com/LongxiZhou/DLPE-method)
 * [CT denoising](https://github.com/SSinyu/RED-CNN)
 
+## Cite
+You can cite our paper as follows:
+```
+@article{chu2025point,
+  title={Point-annotation supervision for robust 3D pulmonary infection segmentation by CT-based cascading deep learning},
+  author={Chu, Yuetan and Wang, Jianpeng and Xiong, Yaxin and Gao, Yuan and Liu, Xin and Luo, Gongning and Gao, Xin and Zhao, Mingyan and Huang, Chao and Qiu, Zhaowen and others},
+  journal={Computers in Biology and Medicine},
+  volume={187},
+  pages={109760},
+  year={2025},
+  publisher={Elsevier}
+}
+```
+
+
 
