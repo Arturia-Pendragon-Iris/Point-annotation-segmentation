@@ -10,7 +10,7 @@ pip install -r requirements.txt
 Here we include all the packages used in our whole platform. However, some packages are not used in this project. You can install some of these packages according to your situation.
 
 ## Sample data
-A part of the accessible data (n=20) and the full-annotation of infections can be downloaded [here](https://drive.google.com/drive/folders/1ZuEn3Uq9AFiy7mM4Q-mgljAFfeTuNTR6?usp=sharing). Feel free to use these data for training and testing your segmentation model. If you want to access more data, please do not hesitate to contact mengzi98@163.com.
+A part of the accessible data (PointP) (n=20) and the full-annotation of infections can be downloaded [here](https://drive.google.com/drive/folders/1ZuEn3Uq9AFiy7mM4Q-mgljAFfeTuNTR6?usp=sharing). Feel free to use these data for training and testing your segmentation model. If you want to access more data, please do not hesitate to contact mengzi98@163.com.
 
 ### Workflow
 ![image](https://github.com/Arturia-Pendragon-Iris/Point-annotation-segmentation/blob/main/img/Figure_2.png)
